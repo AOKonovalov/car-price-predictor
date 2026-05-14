@@ -24,7 +24,7 @@
 
 ## 🔗 Демо
 
-* Развёрнутое приложение: <https://car-price-predictor-2gcjjx4xexmjzappweef4pm.streamlit.app/> 
+* Развёрнутое приложение: <https://car-price-predictor-a2sktj6mfropapp7br8rfy2.streamlit.app/> 
 
 ## Что делает приложение
 
